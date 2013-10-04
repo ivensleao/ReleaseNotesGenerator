@@ -121,7 +121,7 @@
     <value>Error creating file!</value>
   </data>
   <data name="MessageFilesExtension" xml:space="preserve">
-    <value>Save text Files</value>
+    <value>Save Release Notes</value>
   </data>
   <data name="MessageSuccess" xml:space="preserve">
     <value>The file was created successfully!</value>

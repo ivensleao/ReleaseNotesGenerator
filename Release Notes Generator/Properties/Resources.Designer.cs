@@ -70,7 +70,7 @@ namespace Release_Notes_Generator.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Save text Files.
+        ///   Looks up a localized string similar to Save Release Notes.
         /// </summary>
         internal static string MessageFilesExtension {
             get {
