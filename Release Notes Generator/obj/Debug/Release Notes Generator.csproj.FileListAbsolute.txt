@@ -1,0 +1,9 @@
+c:\users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\bin\Debug\Release Notes Generator.exe.config
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release Notes Generator.csprojResolveAssemblyReference.cache
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release_Notes_Generator.Form1.resources
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release_Notes_Generator.Properties.Resources.resources
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release Notes Generator.csproj.GenerateResource.Cache
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\bin\Debug\Release Notes Generator.exe
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\bin\Debug\Release Notes Generator.pdb
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release Notes Generator.exe
+C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release Notes Generator.pdb
