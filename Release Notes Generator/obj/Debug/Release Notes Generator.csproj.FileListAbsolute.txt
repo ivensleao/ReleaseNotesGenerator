@@ -7,3 +7,6 @@ C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator
 C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\bin\Debug\Release Notes Generator.pdb
 C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release Notes Generator.exe
 C:\Users\ivensleao\documents\visual studio 2012\Projects\Release Notes Generator\Release Notes Generator\obj\Debug\Release Notes Generator.pdb
+E:\GIT\ReleaseNotesGenerator\Release Notes Generator\bin\Debug\Release Notes Generator.exe.config
+E:\GIT\ReleaseNotesGenerator\Release Notes Generator\obj\Debug\Release Notes Generator.exe
+E:\GIT\ReleaseNotesGenerator\Release Notes Generator\obj\Debug\Release Notes Generator.pdb

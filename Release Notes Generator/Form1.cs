@@ -62,7 +62,7 @@ namespace Release_Notes_Generator
             if (CreateFile(this.filepath, GenerateText()))
             {
                 MessageBox.Show(Resources.MessageSuccess);
-                clearAll();
+                ClearAll();
             }
             else
                 MessageBox.Show(Resources.MessageError);
@@ -91,7 +91,7 @@ namespace Release_Notes_Generator
             }
         }
 
-        private void clearAll()
+        private void ClearAll()
         {
             this.txt_about.Text = string.Empty;
             this.txt_additions.Text = string.Empty;
